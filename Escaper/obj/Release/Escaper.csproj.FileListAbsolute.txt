@@ -1,0 +1,9 @@
+C:\Users\sssan\Codes\C#\Escaper\Escaper\bin\Release\Escaper.exe.config
+C:\Users\sssan\Codes\C#\Escaper\Escaper\bin\Release\Escaper.exe
+C:\Users\sssan\Codes\C#\Escaper\Escaper\bin\Release\Escaper.pdb
+C:\Users\sssan\Codes\C#\Escaper\Escaper\obj\Release\Escaper.Escaper.resources
+C:\Users\sssan\Codes\C#\Escaper\Escaper\obj\Release\Escaper.Properties.Resources.resources
+C:\Users\sssan\Codes\C#\Escaper\Escaper\obj\Release\Escaper.csproj.GenerateResource.cache
+C:\Users\sssan\Codes\C#\Escaper\Escaper\obj\Release\Escaper.csproj.CoreCompileInputs.cache
+C:\Users\sssan\Codes\C#\Escaper\Escaper\obj\Release\Escaper.exe
+C:\Users\sssan\Codes\C#\Escaper\Escaper\obj\Release\Escaper.pdb
